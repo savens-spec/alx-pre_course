@@ -1,3 +1,4 @@
 #!/bin/bash
 <<<<<<< HEAD
-echo "ALX School"
+
+ echo "The school is open!"
